@@ -58,11 +58,17 @@ Database & Job Dataset
 
 cv-platform/
 ├── docs/ # Documentation and UML
+
 ├── core/ # C++ core engine
+
 ├── frontend/ # Web interface
+
 ├── database/ # SQL schema and seed data
+
 ├── jobs/ # Controlled job dataset
+
 ├── data/ # Input/output test data
+
 └── README.md
 
 
